@@ -45,7 +45,7 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 <!-- ## Versioning
 *In Development stage, no versioning at this time.* -->
 
-## Authors
+## Author
 *Jason Nuhn*
 
 <!-- ## License
