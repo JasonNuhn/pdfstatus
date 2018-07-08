@@ -48,8 +48,8 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 ## Authors
 *Jason Nuhn*
 
-## License
-*To Be Determined*
+<!-- ## License
+*To Be Determined* -->
 
 ## Acknowledgments
-- Hat tip to @vspedr for providing guidance on how it works using PDFMake on ReactJS
+- Hat tip to **Victor** - (https://github.com/vspedr) for providing guidance on how it works using PDFMake on ReactJS
