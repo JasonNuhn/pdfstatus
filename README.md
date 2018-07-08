@@ -3,7 +3,7 @@ Built a status report that can be printed to PDF
 
 ## Getting Started
 ```
-git clone this repo
+git clone https://github.com/JasonNuhn/pdfstatus.git
 npm install
 yarn start
 ```
